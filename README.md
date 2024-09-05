@@ -6,7 +6,7 @@ This project focuses on building a chatbot web application similar to ChatGPT. T
 
 Basically like this:
 
-![like this](\ch)
+![like this](readme/chatbot_example.png)
 
 ### Features
 - **Responsive Front-End**: An interactive and user-friendly web interface for interacting with the chatbot, allowing you to change parameters like output length, model temperature, and more. 

@@ -26,10 +26,11 @@ The back-end integrates Language Models using:
 - **OpenAI API**: For advanced LLMs like GPT-4.
 - **Local Language Models**: utilizing locally hosted language models on the server.
 
-## 
 
 
 ## License
+
+
 
 
 ## Acknowledgements

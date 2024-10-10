@@ -1,0 +1,15 @@
+.idea
+.vscode
+
+py310/
+git/
+.gradio/
+model/
+outputs/
+__pycache__/
+venv/
+.venv/
+modules/
+
+
+test.py

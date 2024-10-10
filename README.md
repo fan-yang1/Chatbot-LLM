@@ -26,6 +26,14 @@ The back-end integrates Language Models using:
 - **OpenAI API**: For advanced LLMs like GPT-4.
 - **Local Language Models**: utilizing locally hosted language models on the server.
 
+#### Datasets
+
+- **Instrction Tuning:** The **Alpaca** dataset is a high-quality resource for fine-tuning large language models, comprising instruction-output pairs, this dataset was generated using OpenAI's text-davinci-003 API (I use the gpt4 version), covering a wide range of natural language processing tasks such as question answering, text generation, and code writing.
+
+## Temporary URL
+
+[IntegratedChatbot (gradio.live)](https://49e3e77d3d84dc124f.gradio.live/)
+
 
 
 ## License
